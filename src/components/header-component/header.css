@@ -1,0 +1,56 @@
+.header {
+	padding-top: 3.5rem;
+	padding-bottom: 1rem;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 100%;
+}
+
+.header-img {
+	margin-bottom: 3rem;
+}
+
+.filter-select {
+	font-weight: 700;
+}
+
+
+.select-types {
+	text-align: left;
+	font-weight: 700;
+}
+
+.filter-searchbar {
+	font-weight: 500;
+}
+
+.filter-select, .filter-searchbar, .filter-reset{
+	padding: .5rem;
+	margin-right: .3rem;	
+	text-transform: capitalize;
+	border-radius: 5px;
+	text-align: center;
+}
+
+
+.filter-reset {
+	padding-right: 2rem;
+	padding-left: 2rem;
+	background: #FFE031;
+	color: #4052D9;
+	font-weight: 700;
+	transition: .3s linear;
+}
+
+
+
+
+.filter-reset:hover {
+	cursor: pointer;
+}
+
+.filter-reset:active {
+	filter: brightness(.1);
+	padding-top: 0.2rem;
+}

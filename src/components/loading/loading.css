@@ -1,0 +1,14 @@
+.loading-container {
+	width: 100;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.loading-img {
+	position: absolute;
+	margin: auto;
+	top: 30%;
+}
+
+
