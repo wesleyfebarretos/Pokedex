@@ -8,6 +8,7 @@ For pokemon lovers, I have developed a very cozy pokedex for them to meet their 
 
 - You can search for pokemons by type and name, or both together.
 - if you no longer want to filter by type or name, you can reset it by clicking the "Reset" button.
+- if you want to go to the next page and load more pokemons, just click on the forward button next to the page number, the same goes for back.
 - _I am working on more features_
 
 ## Getting Started
