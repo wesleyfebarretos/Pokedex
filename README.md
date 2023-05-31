@@ -1,5 +1,7 @@
 # Pokedex
 
+![Preview-Screens](https://github.com/Wesleyfbarretos/Pokedex/blob/main/src/images/Dex-print.png)
+
 For pokemon lovers, I have developed a very cozy pokedex for them to meet their favorite pokemons and many others. 😄.
 
 ## Getting Started
@@ -11,9 +13,9 @@ To run this project in the development mode is very simple.
 **Cloning the Repository**
 
 ```
-$ git clone https://github.com/Wesleyfbarretos/portifolio-web.git
+$ git clone https://github.com/Wesleyfbarretos/Pokedex.git
 
-$ cd portifolio-web
+$ cd Pokedex
 ```
 
 **Installing dependencies**
