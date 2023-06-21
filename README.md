@@ -2,7 +2,7 @@
 
 ![Preview-Screens](https://github.com/Wesleyfbarretos/Pokedex/blob/main/src/images/Dex-print.png)
 
-For pokemon lovers, I have developed a very cozy pokedex for them to meet their favorite pokemons and many others. 😄.
+For pokemon lovers, I have developed a very cozy pokedex for them to meet their favorite pokemons and many others. 😄. [Deploy](https://wfpokedex.vercel.app)
 
 ## Functionalities
 
